@@ -45,7 +45,32 @@ select
     
 # 3 
 
+with CTE1 (month, dairy_sales_2020)
+as 
+(
+    select substring(p.fulldate, 6, 2), count(*) from purchases_2020 p 
+    inner join categories c on p.purchaseid = c.purchase_id
+    where LEFT(p.fulldate, 4) = '2020' and c.category in ('whole milk', 'yogurt', 'domestic eggs')
+    group by substring(p.fulldate, 6, 2) 
+)
+, CTE2 (month, dairy_sales_2019) as 
+(
 
+    select substring(p.full_date, 6, 2), count(*) from purchases_2019 p 
+    inner join categories c on p.purchase_id = c.purchase_id
+    where LEFT(p.full_date, 4) = '2019' and c.category in ('whole milk', 'yogurt', 'domestic eggs')
+    group by substring(p.full_date, 6, 2) 
+)
+
+
+select c1.month, 
+        (
+            ROUND(100 * 
+             (( CAST(c1.dairy_sales_2020 as Numeric(8,2)) - CAST(c2.dairy_sales_2019 as Numeric(8,2))) / CAST(c1.dairy_sales_2020 as Numeric(8,2))), 2)
+        ) as year_change
+        
+        from CTE1 c1 inner join CTE2 c2 on c1.month = c2.month
+    
 
 
 
