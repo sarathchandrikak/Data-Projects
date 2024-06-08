@@ -9,7 +9,17 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-<!-- - [Tableau](#tableau) -->
+- [Tableau](#tableau)
+
+
+# Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 👩🏻‍💻 [Absenteesim Analysis](https://github.com/sarathchandrikak/Absenteeism-Analysis) | Programming | Analysing the reason and probabilities various conditions for maximum absenteeism in employees of a company. | pandas, numpy, scikit-learn | 
+| 📺 [NYC Airbnb Analysis](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/NYC%20Airbnb%20Data%20Analysis) |   Data Wrangling & EDA | Analysis on multiple files to distinguish Airbnb prices across NYC | pandas |
+
+***
 
 # Data Engineering
 
@@ -30,19 +40,11 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 
 ***
 
-# Python
-
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 👩🏻‍💻 [Absenteesim Analysis](https://github.com/sarathchandrikak/Absenteeism-Analysis) | Programming | Analysing the reason and probabilities various conditions for mazimum absenteeism in employees of a company. | pandas, numpy, scikit-learn | 
-| 📺 [NYC Airbnb Analysis](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/NYC%20Airbnb%20Data%20Analysis) |   Data Wrangling & EDA | Analysis on multiple files to distinguish Airbnb prices across NYC | pandas |
-
-***
-
 # Tableau
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
-
+| [Netflix Dashboard](https://public.tableau.com/app/profile/sarath.chandrika.k/viz/NetflixDashboard_17158614919520/NetflixDashboard) | Netflox Movies and TV Show Analysis | Analysis of Netflix data on recent movies and tv shows |
+| [IT Technical Issues Dashboard](https://public.tableau.com/app/profile/sarath.chandrika.k/viz/OnyxDataMayChallenge/Dashboard1) | IT Ticket Info Analysis | Detailed analysis of tickets booked, resolved in time |
 ***
 
