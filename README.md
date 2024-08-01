@@ -9,7 +9,7 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+- [Data Analysis](#EDADataVisualisationDataAnalysis)
 
 
 # Python
