@@ -40,7 +40,7 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 
 ***
 
-# Tableau
+# EDA, Data Visualisation, Data Analysis
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
