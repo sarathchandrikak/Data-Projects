@@ -7,10 +7,10 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python PySpark](#python-pyspark)
-- [Data Analysis](#eda-data-visualisation-data-analysis)
 - [DE System Design](#de-system-design)
+- [Python PySpark](#python-pyspark)
+- [SQL](#sql)
+- [Data Analysis](#eda-data-visualisation-data-analysis)
 
 
 # Data Engineering
@@ -42,7 +42,7 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🛍 [Serious SQL - Ongoing](https://github.com/sarathchandrikak/Serious-SQL) | Data Analysis Queries | Apprenticeship of SQL | 
+| 🛍 [Serious SQL](https://github.com/sarathchandrikak/Serious-SQL) | Data Analysis Queries | Apprenticeship of SQL | 
 | 👩‍💼 [Employee Info](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study) | Employee Info Analysis | Analyis on Employee database implementing all the concepts of SQL | 
 | 🎦 [IMDB Movie](https://github.com/sarathchandrikak/ImDb-Data-Analysis) | Data cleaning, transformation, Analysis | Analysis of RSVP Indian film production data of past 3 years Movie data to release a movie for global audience | 
 
