@@ -19,6 +19,7 @@ Welcome to my data portfolio! Here, are projects with Python, SQL, R, PySpark, T
 |---|---|---|
 | ⛓ [dbt airflow pipeline](https://github.com/sarathchandrikak/Data-Projects/tree/main/dbt-airflow-pipeline) | Python, Snowflake, Airflow, dbt | Developed a data pipeline to build fact and dimension tables for the snowlake database snowflake-sample-data |
 | 🏦 [Spar Nord Bank Transaction](https://github.com/sarathchandrikak/ETL-Bank-Transcation) | Python, AWS, EC2, RedShift, SQOOP | Developed a data pipeline utilizing ETL a batch ETL pipeline to read transactional data from RDS, transform and load it into target dimensions and facts on Redshift Data Mart |
+| 🗜️ [Retail data Pipeline] (https://github.com/sarathchandrikak/Data-Projects/tree/main/kafka-stream) | Python, Kafka, AWS, EC2, Glue, Athena, S3 | Developed a streaming pipeline, that reads data from producer and updates data into s3 followed by athena |
 
 ***
 
