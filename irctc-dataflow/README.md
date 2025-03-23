@@ -4,7 +4,7 @@
 
   A company needs to build a scalable, real-time data pipeline to capture change events from a transactional database, process and transform the data, 
   and store it in a data warehouse for analytics. The pipeline should also support reading additional reference files from cloud storage to enrich the 
-  data before final storage.
+  data before final storage. Design a data pipeline in Google Cloud
   
 # Architecture 
 
