@@ -29,3 +29,6 @@ In this context, I am specifically working with ODI rankings from RapidAPI, whic
    * Connect looker studio to BigQuery dataset and create a Looker Studio dashboard to visualize the real-time data.
 
 
+# ♦️ Architecture Diagram
+
+![Image](https://github.com/sarathchandrikak/Data-Projects/blob/main/cricket-pipeline/pipeline.png)
