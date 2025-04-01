@@ -32,3 +32,11 @@ In this context, I am specifically working with ODI rankings from RapidAPI, whic
 # ♦️ Architecture Diagram
 
 ![Image](https://github.com/sarathchandrikak/Data-Projects/blob/main/cricket-pipeline/pipeline.png)
+
+# ♦️ Files Description
+
+1. dag.py -> Creates and triggers Bash Operator dag to extract data from rapid api and save data to GCS
+2. extract_push_to_gcs.py -> Triggers Bash Operator dag to push data to cloud storage bucket
+3. function.py -> Cloud Run function to get triggered based on file load in GCS and create dataflow job
+4. bq.json -> Schema notation for BigQuery table
+5. udf.js -> Transformation UDF to use in Dataflow job while writing data to BigQuery
