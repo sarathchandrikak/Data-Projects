@@ -26,7 +26,7 @@ It integrates metadata management and consensus directly into Kafka brokers usin
 
 ## 🚩 Input Data
 
-Data for this stock market project is available ![here](https://github.com/sarathchandrikak/Data-Projects/blob/main/kafka-stream/indexProcessed.csv)
+Data for this stock market project is available [here](https://github.com/sarathchandrikak/Data-Projects/blob/main/kafka-stream/indexProcessed.csv)
 
 ## 🚩Commands 
 
