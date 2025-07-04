@@ -28,8 +28,8 @@ To provide real-time updates on the latest YouTube metrics for user playlists, e
 ### 🧩 Files Description
 
 bq_ddl_commands.sql -> SQL commands to create tables in bigquery\
-transform_join_ecommerce.py -> PySpark code that transforms raw data and writes into bigquery table
-ecommerce_data_pipeline_dag.py -> Python DAGs that initially loads data into tables followed by Dataproc serverless job invocation to run the pyspark script
+transform_join_ecommerce.py -> PySpark code that transforms raw data and writes into bigquery table\
+ecommerce_data_pipeline_dag.py -> Python DAGs that initially loads data into tables followed by Dataproc serverless job invocation to run the pyspark script\
 requirements.txt -> Requirements needed to run the astronomer airflow job
 
 ### 🧩 Commands to Run
