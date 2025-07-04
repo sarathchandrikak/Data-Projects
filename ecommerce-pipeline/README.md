@@ -2,9 +2,9 @@
 # 🧩 Problem Statement
 The goal of this project is to build a data ingestion and transformation pipeline that:
 
--> Ingests raw data automatically from a Google Cloud Storage (GCS) bucket into a raw table in BigQuery
--> Performs data transformations and writes the results into a modified (cleaned or modeled) BigQuery table
--> Orchestrates and schedules these steps using Astronomer Airflow DAGs, ensuring reliability and visibility
+-> Ingests raw data automatically from a Google Cloud Storage (GCS) bucket into a raw table in BigQuery\
+-> Performs data transformations and writes the results into a modified (cleaned or modeled) BigQuery table\
+-> Orchestrates and schedules these steps using Astronomer Airflow DAGs, ensuring reliability and visibility\
 -> (Optional enhancement) Incorporates a Cloud Run service that is triggered when new files are added to the GCS bucket, enabling near real-time ingestion and transformation
 
 ### 🧩 Business Use Case
