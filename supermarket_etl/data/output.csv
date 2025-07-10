@@ -1,0 +1,19 @@
+product_line,branch,city,customer_type,gender,transaction_date,transaction_time,total,gross_income,rating,running_total_sales_per_branch_city,avg_rating_per_city,rank_by_total_sales_per_product_line
+Health and beauty,Alex,Yangon,Member,Female,1/5/2019,1:08:00 PM,548.9714999999999,26.1415,9.1,548.9714999999999,7.25,2
+Electronic accessories,Alex,Yangon,Member,Female,2/25/2019,2:36:00 PM,433.692,20.652,5.8,982.6634999999999,7.25,4
+Food and beverages,Alex,Yangon,Member,Female,2/7/2019,4:48:00 PM,453.495,21.595,8.2,1436.1585,7.25,3
+Sports and travel,Alex,Yangon,Member,Female,2/8/2019,10:37:00 AM,634.3785,30.2085,5.3,2070.537,7.25,1
+Fashion accessories,Alex,Yangon,Member,Female,3/10/2019,12:17:00 PM,184.107,8.767,7.7,2254.644,7.25,6
+Home and lifestyle,Alex,Yangon,Normal,Female,3/3/2019,1:23:00 PM,340.5255,16.2155,7.4,2595.1695,7.25,5
+Sports and travel,Cairo,Mandalay,Member,Female,1/15/2019,4:19:00 PM,590.4359999999999,28.116,4.5,590.4359999999999,5.2,1
+Food and beverages,Cairo,Mandalay,Member,Female,2/20/2019,1:27:00 PM,172.746,8.226,5.9,763.1819999999999,5.2,3
+Fashion accessories,Cairo,Mandalay,Member,Female,2/6/2019,6:07:00 PM,60.816,2.896,4.5,823.9979999999999,5.2,6
+Home and lifestyle,Cairo,Mandalay,Member,Female,3/11/2019,3:30:00 PM,84.63,4.03,4.4,908.6279999999999,5.2,5
+Health and beauty,Cairo,Mandalay,Member,Female,3/5/2019,10:40:00 AM,277.137,13.197,5.1,1185.7649999999999,5.2,2
+Electronic accessories,Cairo,Mandalay,Member,Female,3/9/2019,5:03:00 PM,107.14200000000001,5.102,6.8,1292.907,5.2,4
+Sports and travel,Giza,Naypyitaw,Member,Female,1/7/2019,12:28:00 PM,71.52600000000001,3.406,6.8,71.52600000000001,7.8999999999999995,6
+Home and lifestyle,Giza,Naypyitaw,Member,Female,2/24/2019,11:38:00 AM,772.38,36.78,8.0,843.906,7.8999999999999995,2
+Food and beverages,Giza,Naypyitaw,Member,Female,2/6/2019,10:42:00 AM,417.564,19.884,7.5,1261.47,7.8999999999999995,4
+Fashion accessories,Giza,Naypyitaw,Member,Female,3/19/2019,5:08:00 PM,867.615,41.315,7.9,2129.085,7.8999999999999995,1
+Health and beauty,Giza,Naypyitaw,Member,Female,3/23/2019,1:24:00 PM,461.32800000000003,21.968,7.6,2590.413,7.8999999999999995,3
+Electronic accessories,Giza,Naypyitaw,Normal,Female,3/8/2019,10:29:00 AM,80.21999999999998,3.82,9.6,2670.6330000000003,7.8999999999999995,5
