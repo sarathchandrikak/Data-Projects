@@ -134,7 +134,7 @@ Fact Table:
 | 3. Data Extraction               | Download dataset from Kaggle                                  | **Cloud Composer (PythonOperator)**                  |
 | 4. Raw Data Storage              | Store downloaded raw files (e.g. CSV)                          | **Cloud Storage** (Raw Data Bucket)                  |
 | 5. File-based Trigger (Optional) | Trigger DAG when new files arrive                             | **Cloud Storage**, **Cloud Composer (Sensor)**       |
-| 6. ETL Processing                | Run PySpark job to clean/transform data                       | **Cloud Dataflow**, **Cloud Composer**               |
+| 6. ETL Processing                | Run PySpark job to clean/transform data                       | **Cloud DataProc**, **Cloud Composer**               |
 | 7. Staging Data Storage          | Temporarily store transformed data                            | **Cloud Storage** (Staging Bucket)                   |
 | 8. Data Warehouse Loading        | Load final processed data into warehouse                      | **BigQuery**                                         |
 | 9. Reporting Table Generation    | Create/report tables using SQL queries                        | **BigQuery**                                         |
