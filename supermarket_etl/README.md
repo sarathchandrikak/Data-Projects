@@ -98,13 +98,14 @@ Fact Table:
 
     transaction_time (TIME)
 
-#### Final Report
+### 3. Final Report
 
 1. Calculates a cumulative sum of total sales for each branch and city combination, ordered chronologically by transaction_date and transaction_time. This helps in tracking sales performance over time within specific locations.
 
 2. Average Rating per City: Computes the average rating across all transactions within each city, offering a quick view of customer satisfaction per location.
 
 3. Sales Rank per Location: Ranks individual sales transactions (fs.total) within each branch and city from highest to lowest, assigning the same rank to tied sales amounts (dense ranking). This identifies the top-performing individual sales within specific branches and cities.
+   
 
 
 # Cloud Scenarios
