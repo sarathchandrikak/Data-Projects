@@ -110,6 +110,8 @@ Fact Table:
 
 # Cloud Scenarios
 
+![Image](https://github.com/sarathchandrikak/Data-Projects/blob/main/supermarket_etl/cloud1.jpg)
+
 | **Pipeline Stage**               | **Function**                                     | **GCP Service Used**             |
 |----------------------------------|--------------------------------------------------|----------------------------------|
 | 1. Data Extraction               | Download dataset from Kaggle                     | Cloud Function                   |
@@ -119,6 +121,10 @@ Fact Table:
 | 5. Data Warehouse Loading        | Load transformed data into warehouse             | BigQuery                         |
 | 6. Reporting Table Generation    | Create/report tables with SQL queries            | BigQuery                         |
 | 7. Data Visualization            | Visualize report data with dashboards            | Looker Studio                    |
+
+
+
+![Image](https://github.com/sarathchandrikak/Data-Projects/blob/main/supermarket_etl/cloud2.png)
 
 
 | **Pipeline Stage**               | **Function**                                                  | **GCP Service Used**                                 |
